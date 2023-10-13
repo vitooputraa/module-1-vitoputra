@@ -4,6 +4,10 @@
 
 ![Vito Putra Sutarno](assets/3x4.jpg)
 
+## Github Stats
+
+![Vito Putra Sutarno's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitooputraa&show_icons=true&theme=radical)
+
 ---
 
 ## About me
@@ -15,9 +19,9 @@ I am a passionate and dedicated individual with a strong interest in Sports and 
 ## Contact Information
 
 - **Email:** vitovitoboom12@gmail.com 
-- **LinkedIn:** [Vito Putra Sutarno](https://www.linkedin.com/in/vitoputrasutarno/)
 - **GitHub:** [vitooputraa](https://github.com/vitooputraa)
 - **Instagram:** [vito.putra.s](https://instagram.com/vito.putra.s)
+
 
 ---
 
@@ -33,6 +37,16 @@ I am a passionate and dedicated individual with a strong interest in Sports and 
 - **Student at RevoU Bootcamp**
   October 2023 - July 2024
   - Student at RevoU Software Engineering Section Seoul.
+
+---
+
+## Sports Achievements
+
+- **Professional Mobile Legends Player**  
+  I am a professional Mobile Legends player who has participated in various tournaments, including the Mobile Legends Development League (MDL) Indonesia Season 2.
+
+- **Futsal Enthusiast**  
+  I am a futsal enthusiast who has participated in various futsal tournaments, including the 2022 Futsal Competition at the University of Indonesia.
 
 ---
 
@@ -53,10 +67,33 @@ I am a passionate and dedicated individual with a strong interest in Sports and 
 ## Interests
 
 - **E-Sport Mobile Legends Pro Scene**: I am proud to be a part of the Mobile Legends Pro Scene. I am a fan of the MPL ID and MPL PH. I also enjoy playing the game in my free time.
-- **Technology Innovation:** I am passionate about   exploring emerging technologies and their applications.
+- **Technology Innovation:** I am passionate about exploring emerging technologies and their applications.
 - **Soccer:** As a dedicated soccer player and fan, I enjoy watching and playing the sport in my free time.
 - **Badminton**: I enjoy playing badminton in my free time.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vitoputrasutarno/) to stay in touch and learn more about my junior in IT journey!.
 
+---
+
+## Code Snippet
+
+##### Python
+```python
+print("Hello World!")
+```
+
+##### Java
+```java
+System.out.println("Hello World!");
+```
+
+##### C
+```c
+printf("Hello World!");
+```
+
+#### Javascript
+```javascript
+console.log("Hello World!");
+```
 ---
