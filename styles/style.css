@@ -187,6 +187,7 @@ nav ul li a {
 
 .services-title {
     text-align: center;
+    color: #232e35;
 }
 
 .service {
@@ -217,6 +218,10 @@ nav ul li a {
 /*Portfolio*/
 #portfolios {
     padding: var(--sectionPadding);
+}
+
+#portfolios .section-title {
+    color: #232e35;
 }
 
 .portfolio {
@@ -277,6 +282,10 @@ nav ul li a {
 #skills {
     padding: var(--sectionPadding);
     background: var(--secondaryBackgroundColor);
+}
+
+#skills .section-title {
+    color: #232e35;
 }
 
 .skills-grid {
