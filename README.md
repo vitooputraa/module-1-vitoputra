@@ -1,4 +1,4 @@
-👋 https://vitoputrasutarno-mp.netlify.app/ 👋
+👋 [![Netlify Status](https://api.netlify.com/api/v1/badges/a7fe5bcd-b6a4-4711-93ea-079e42e1301e/deploy-status)](https://app.netlify.com/sites/vitoputrasutarno-mp/deploys) 👋
 
 ## Vito Putra Sutarno
 
